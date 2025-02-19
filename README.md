@@ -15,6 +15,9 @@ To showcase my Tableau & Power BI skills highlighting my ability to navigate thr
 
 ## Screenshots
 
+- Bar chart showing percentage change.
+![image](https://github.com/user-attachments/assets/04d704ee-e874-4836-a5cb-478e88ad6a4a)
+
 
 
 ## Summary

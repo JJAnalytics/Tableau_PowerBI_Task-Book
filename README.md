@@ -16,13 +16,18 @@ To showcase my Tableau & Power BI skills highlighting my ability to navigate thr
 ## Screenshots
 
 - Bar chart showing percentage change.
-- 
+  
 ![image](https://github.com/user-attachments/assets/04d704ee-e874-4836-a5cb-478e88ad6a4a)
 
+
 - Uk-base map showing the key city locations impacted.
+  
 ![image](https://github.com/user-attachments/assets/a64619af-a188-40b0-9527-2aec743e01ab)
 
+
 - A report in Power BI using a virtual machine.
+  
+![image](https://github.com/user-attachments/assets/cdf44c9a-fa13-4a61-8691-a51bbdade734)
 
 
 
